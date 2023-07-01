@@ -4,7 +4,7 @@
 3. Run `npm start`
 
 About The project:- 
- Developed an algorithm for accurate detection and location of human faces
+Developed an algorithm for accurate detection and location of human faces
 within digital images.
 • Worked on multi-label classification with artificial intelligence.
 • Utilized Clarifai-nodejs-grpc API’s and connected the database to the Backend.
@@ -25,7 +25,7 @@ Requirements:
 - Node.js and Npm runtime environment
 
 Usage:
-1. Clone the project repository from (https://github.com/code-maan/smartvision.git)).
+1. Clone the project repository from (https://github.com/code-maan/smartvision.git).
 2. Install the required dependencies listed in the package.json file.
 3. Set up the Clarifai-nodejs-grpc API credentials in the configuration file.
 4. Configure the database(PSQL) connection details in the backend configuration file.
@@ -38,9 +38,9 @@ Contributors:
 - MD AMAAN ALAM "amaan150618@gmail.com"
 
 License:
-This project is licensed under the MIT  license.
+This project is licensed under the MIT license.
 
 Contact:
 For any questions or suggestions, please contact Md Amaan Alam at [amaan150618@gmail.com].
-Thank you so much.
+Thank you.
 
