@@ -41,6 +41,6 @@ License:
 This project is licensed under the MIT license.
 
 Contact:
-For any questions or suggestions, please contact Md Amaan Alam at [amaan150618@gmail.com].
+For any questions or suggestions, please contact MD AMAAN ALAM at [amaan150618@gmail.com].
 Thank you.
 
